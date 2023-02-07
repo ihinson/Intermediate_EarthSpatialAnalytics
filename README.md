@@ -1,4 +1,4 @@
 # Land-Classification
-###This project will explore land classfication and NDVI for Spokane County, Washington USA.
+###This project will explore various earth science spatial analytics projects.
 
 
