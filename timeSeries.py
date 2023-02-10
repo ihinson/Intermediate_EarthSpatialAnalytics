@@ -1,7 +1,4 @@
-#TODO make this work
-# Install modules
-pip install seaborn
-pip install earthpy
+# TODO MAKE EARTHPY WORK
 
 # Import packages
 from matplotlib.axes._axes import _log as matplotlib_axes_logger
