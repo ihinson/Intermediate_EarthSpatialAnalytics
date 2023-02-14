@@ -6,7 +6,7 @@ import os
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
-import earthpy as et
+
 
 #Date time conversions
 from pandas.plotting import register_matplotlib_converters
@@ -21,7 +21,7 @@ warnings.filterwarnings('ignore')
 sns.set(font_scale=1.5, style="whitegrid")
 
 # Download the data
-data = et.data.get_data('colorado-flood')
+data = 
 
 # Set working directory
 os.chdir(os.path.join(et.io.HOME, 'earth-analytics', "data"))
